@@ -43,7 +43,7 @@ Este projeto utiliza técnicas de mineração de dados e aprendizado de máquina
 1. **Baixe o dataset** : Execute o script `download_dataset.py` para baixar e carregar o dataset:
 
 ```
-pythondownload_dataset.py
+python download_dataset.py
 ```
 
 Isso baixará o dataset "Amazon Delivery" do Kaggle e exibirá uma prévia.
