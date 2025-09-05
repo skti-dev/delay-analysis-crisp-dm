@@ -3,6 +3,10 @@
 Este projeto utiliza técnicas de mineração de dados e aprendizado de máquina para analisar e prever atrasos em entregas de logística, aplicando o framework CRISP-DM (Cross-Industry Standard Process for Data Mining).
 
 ## Demo
+<img width="1916" height="783" alt="image" src="https://github.com/user-attachments/assets/142a70c6-fb3c-48bc-9d11-0c9d6635ed3c" />
+<img width="1887" height="880" alt="image" src="https://github.com/user-attachments/assets/0258da45-9408-4381-8181-0b1a32ead9af" />
+<img width="1884" height="897" alt="image" src="https://github.com/user-attachments/assets/f5f9633f-268a-4c6c-a329-5e9a6f2db958" />
+<img width="1895" height="713" alt="image" src="https://github.com/user-attachments/assets/c97dcb77-ce3e-41f1-9182-fc8a3e30f491" />
 
 ## Funcionalidades
 
